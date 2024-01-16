@@ -9,7 +9,7 @@ in the class `SumRatio` (in the file `\Debugging\SumRatio.py`). The class `SumRa
 
 1. Find and fix the bugs in the current implementation of `SumRatio` class
 such that you can run `Test1.py` script without any error. 
-*Hint:* Watch [this video](https://www.youtube.com/watch?v=QJtWxm12Eo0) 
+*Hint:* Watch [this video](https://www.youtube.com/watch?v=j0Wz_uBaDmo) 
 to learn about the debugging features of PyCharm and read 
 [this post](https://blog.hartleybrody.com/debugging-code-beginner/) for
 some debugging tips. 
