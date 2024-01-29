@@ -76,4 +76,5 @@ print the expected cost and expected health utility of nodes C1 and C3.
 
  **Problem 4: Economic Evaluation (Weight 1)**.
  For the decision tree you created in Problem 3, calculate the incremental cost-effectiveness ratio (ICER) of Arm 2 
- with respect to Arm 1. Note that the ICER of alternative 2 with respect to alternative 1 is calculated as $(c_2-c_1)/(e_2-e_1)$
+ with respect to Arm 1. Note that the ICER of alternative 2 with respect to alternative 1 is calculated as $(c_2-c_1)/(e_2-e_1)$,
+ where $c_i$ is the cost of alternative $i$ and $e_i$ is the effect (or utility) of alternative $i$.
